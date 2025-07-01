@@ -28,3 +28,8 @@ A lightweight, ML-powered web app to detect whether a message is 🚫 spam or �
 
 ## 🗃️ Folder Structure
 
+📁 email-spam-classifier/
+├── app.py # Streamlit app script
+├── vectorizer.pkl # Saved TF-IDF vectorizer
+├── spam_model.pkl # Trained Naive Bayes model
+└── README.md # You are here!
