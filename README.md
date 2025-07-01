@@ -38,10 +38,5 @@ A lightweight, ML-powered web app to detect whether a message is 🚫 spam or �
 
 ---
 
-## 🛠️ How to Run Locally
 
-1. ⬇️ Clone the repository:
-```bash
-git clone https://github.com/your-username/email-spam-classifier.git
-cd email-spam-classifier
 
