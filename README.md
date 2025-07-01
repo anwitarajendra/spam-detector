@@ -34,8 +34,8 @@ A lightweight, ML-powered web app to detect whether a message is 🚫 spam or �
 ├── vectorizer.pkl      # Saved TF-IDF vectorizer
 ├── spam_model.pkl      # Trained Naive Bayes model
 └── README.md           # You are here!
-```markdown
----
+
+```
 
 ## 🛠️ How to Run Locally
 
@@ -43,3 +43,16 @@ A lightweight, ML-powered web app to detect whether a message is 🚫 spam or �
 ```bash
 git clone https://github.com/your-username/email-spam-classifier.git
 cd email-spam-classifier
+
+```
+
+2. 📦 Install the dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+
+3. ▶️ Launch the Streamlit app:
+
+   ```bash
+   streamlit run app.py
+
