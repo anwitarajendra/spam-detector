@@ -34,9 +34,12 @@ A lightweight, ML-powered web app to detect whether a message is 🚫 spam or �
 ├── vectorizer.pkl      # Saved TF-IDF vectorizer
 ├── spam_model.pkl      # Trained Naive Bayes model
 └── README.md           # You are here!
-
-
+```markdown
 ---
 
+## 🛠️ How to Run Locally
 
-
+1. ⬇️ Clone the repository:
+```bash
+git clone https://github.com/your-username/email-spam-classifier.git
+cd email-spam-classifier
